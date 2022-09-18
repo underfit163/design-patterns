@@ -19,7 +19,7 @@ Template Method
 Visitor
 MVC
 DAO
- 
+  
 Factory Method:  
 ![image](https://user-images.githubusercontent.com/81982349/190916290-836965ac-1f39-4547-bec1-6a6976b389d1.png)
 
