@@ -1,24 +1,24 @@
 # design-patterns
 
-The following design patterns are implemented here:
-Factory Method
-Singleton
-Prototype
-Decorator
-Adapter
-Façade
-Proxy
-Chain of responsibility
-Command
-Iterator
-Memento
-Observer
-State
-Strategy
-Template Method
-Visitor
-MVC
-DAO
+The following design patterns are implemented here:  
+Factory Method  
+Singleton  
+Prototype  
+Decorator  
+Adapter  
+Façade  
+Proxy  
+Chain of responsibility  
+Command  
+Iterator  
+Memento  
+Observer  
+State  
+Strategy  
+Template Method  
+Visitor  
+MVC  
+DAO  
   
 Factory Method:  
 ![image](https://user-images.githubusercontent.com/81982349/190916290-836965ac-1f39-4547-bec1-6a6976b389d1.png)
