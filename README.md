@@ -20,10 +20,10 @@ Visitor
 MVC
 DAO
  
-Factory Method:
+Factory Method:  
 ![image](https://user-images.githubusercontent.com/81982349/190916290-836965ac-1f39-4547-bec1-6a6976b389d1.png)
 
-Singleton:
+Singleton:  
 ![image](https://user-images.githubusercontent.com/81982349/190916296-516fb62d-6224-4fbc-a41e-59a60730b4f7.png)
 
 Prototype:
