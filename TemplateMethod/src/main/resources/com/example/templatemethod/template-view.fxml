@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+
+
+<Pane fx:id="canvas" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="740.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.templatemethod.TemplateController">
+   <children>
+      <HBox layoutX="596.0" layoutY="647.0" prefHeight="39.0" prefWidth="190.0">
+         <children>
+            <Button fx:id="ballBtn" mnemonicParsing="false" prefHeight="31.0" prefWidth="61.0" text="Мяч" />
+            <Button fx:id="squareBtn" mnemonicParsing="false" prefHeight="31.0" prefWidth="66.0" text="Квадрат" />
+            <Button fx:id="starBtn" mnemonicParsing="false" prefHeight="31.0" prefWidth="59.0" text="Звезда" />
+         </children>
+      </HBox>
+   </children>
+</Pane>

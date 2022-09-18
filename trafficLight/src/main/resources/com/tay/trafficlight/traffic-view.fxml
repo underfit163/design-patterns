@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.shape.Line?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.tay.trafficlight.TrafficController">
+   <children>
+      <Button fx:id="startButton" layoutX="21.0" layoutY="14.0" mnemonicParsing="false" onAction="#startCar" prefHeight="54.0" prefWidth="143.0" text="Старт" />
+      <VBox alignment="TOP_CENTER" layoutX="450.0" layoutY="33.0" prefHeight="175.0" prefWidth="66.0" style="-fx-background-color: black;">
+         <children>
+            <Circle fx:id="redLight" fill="RED" radius="27.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle fx:id="yellowLight" radius="27.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle fx:id="greenLight" radius="27.0" stroke="BLACK" strokeType="INSIDE" />
+         </children>
+      </VBox>
+      <AnchorPane fx:id="roadPane" layoutY="300.0" prefHeight="100.0" prefWidth="600.0" style="-fx-background-color: black;">
+         <children>
+            <Line fx:id="stopLine" endX="70.0" endY="40.0" fill="WHITE" layoutX="410.0" layoutY="61.0" startX="70.0" startY="-60.0" stroke="WHITE" strokeWidth="5.0" />
+         </children>
+      </AnchorPane>
+   </children>
+</Pane>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MVCChart/MVCChart.iml" filepath="$PROJECT_DIR$/MVCChart/MVCChart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObserverPattern/ObserverPattern.iml" filepath="$PROJECT_DIR$/ObserverPattern/ObserverPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/State/State.iml" filepath="$PROJECT_DIR$/State/State.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TemplateMethod/TemplateMethod.iml" filepath="$PROJECT_DIR$/TemplateMethod/TemplateMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pattern.iml" filepath="$PROJECT_DIR$/.idea/pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trafficLight/trafficLight.iml" filepath="$PROJECT_DIR$/trafficLight/trafficLight.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="194.0" prefWidth="264.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.mvcchart.AddController">
+   <children>
+      <TextField fx:id="addTextField" layoutX="56.0" layoutY="68.0" />
+      <Button layoutX="94.0" layoutY="143.0" mnemonicParsing="false" onAction="#addButtonHandler" style="-fx-background-color: green;" text="Добавить" />
+   </children>
+</AnchorPane>
